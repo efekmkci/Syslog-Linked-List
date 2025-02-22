@@ -60,6 +60,5 @@ Tüm loglar temizlendi!
 - `/var/log/syslog` dosyası yoksa veya okunamazsa, hata mesajı gösterilir.
 - **Bağlı liste kullanımı sayesinde** bellek verimli bir şekilde yönetilir.
 
-## Lisans
-Bu proje açık kaynak olup, herkes tarafından geliştirilebilir ve paylaşılabilir.
+
 
